@@ -85,4 +85,4 @@ The following image shows the web application's appearance and functionality.
 ## Code Review
 
 The completed project is uploaded in Github.  
-Repository link:  [GitHub](https://github.com/rosefrancis-tech/shop-shop)  
+Repository link:  [GitHub](https://github.com/rosefrancis-tech/shopping-point)  
